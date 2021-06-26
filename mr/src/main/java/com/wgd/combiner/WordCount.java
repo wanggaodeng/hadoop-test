@@ -1,4 +1,4 @@
-package com.wgd.wordcount;
+package com.wgd.combiner;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
